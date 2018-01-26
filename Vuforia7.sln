@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vuforia7", "Vuforia7.csproj", "{8699E4B9-BE9B-A0B7-44C1-0B8A0A1E045F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vuforia7.Editor", "Vuforia7.Editor.csproj", "{380751F2-1D00-FC40-34DB-E9F48AA2922E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8699E4B9-BE9B-A0B7-44C1-0B8A0A1E045F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8699E4B9-BE9B-A0B7-44C1-0B8A0A1E045F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8699E4B9-BE9B-A0B7-44C1-0B8A0A1E045F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8699E4B9-BE9B-A0B7-44C1-0B8A0A1E045F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{380751F2-1D00-FC40-34DB-E9F48AA2922E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380751F2-1D00-FC40-34DB-E9F48AA2922E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380751F2-1D00-FC40-34DB-E9F48AA2922E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380751F2-1D00-FC40-34DB-E9F48AA2922E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
